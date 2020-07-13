@@ -31,8 +31,6 @@ const App = () => (
         <Resource name="s_status" />
         <Resource name="get_avail_store" />
       </Admin>
-
-
   );
 
 export default App;
