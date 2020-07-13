@@ -6,7 +6,7 @@ const Users = () => {
   const [users, setUsers] = useState([]);
 
   async function fetchData() {
-    const result = await fetch('http://localhost:4001/api/users');
+    const result = await fetch('/api/users');
     result
       .json()
       .then(result => setUsers(result));
