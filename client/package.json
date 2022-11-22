@@ -11,7 +11,7 @@
     "react-admin": "^3.7.1",
     "react-dom": "^16.13.1",
     "react-heatmap-grid": "^0.8.2",
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
